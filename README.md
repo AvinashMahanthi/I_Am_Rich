@@ -1,7 +1,7 @@
 # i_am_rich
 
 
-This project is a starting point for a Flutter application.
+This project is a starting point for a Flutter application. where you can able to know about app bar, material design and inserting image into a flutter apps etc,
 
 <img src="https://user-images.githubusercontent.com/54079190/92223215-c59f4300-eebd-11ea-906a-22f13f6f80be.jpg" width="23%"></img> 
 
